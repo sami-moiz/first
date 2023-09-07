@@ -1,0 +1,67 @@
+header{
+    width: 100%;
+    height: 4%;
+    margin-top: 10%;
+}
+.div1{
+    margin-left: 10%;
+    margin-top: 5%;
+width: 8%;
+height: 20%;
+display: inline-block;
+}
+button{
+    background-color: rgb(233, 188, 11);
+}
+.icon{
+    size-adjust: -5%;
+}
+.Moiz{
+size: 2%;
+}
+.header2{  
+    width: 100%;
+font-weight: lighter;
+text-align: center;
+margin-bottom: 5%;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+border-bottom: 1px black groove;
+display: inline-block
+
+}
+.div2{
+    margin-bottom: 30px;
+    width: 12%;
+    display: inline-block;
+    }
+.pic{
+margin-left:10%;
+}
+
+
+.header3{
+align-content: center;
+    height: 500px;
+    width: 100%;
+    
+     
+}
+.div3{
+    display: inline-block;
+    width: 22%;
+    /* margin: 5%; */
+    background-color: blueviolet;
+}
+.button {
+    width: 150px;
+    height: 50px;
+    background-color: #FFBC0D;
+    font-size: 20px ;
+    font-family: 'Times New Roman', Times, serif;
+    border: 0;
+    align-content: center;
+}
+.img{
+    width: 100%;
+    /* height: 140px; */
+}
